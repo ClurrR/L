@@ -39,11 +39,11 @@ dhs_6 -> dhs_6
 	-webkit-transition: width 1s;
 }
 .dhs_24 {
-	background-image: url('http://vignette4.wikia.nocookie.net/girlsofthewild/images/7/77/525834_413961851967491_1411039538_n.jpg/revision/latest?cb=20120529141325');
+	background-image: url('http://i64.tinypic.com/1430pbp.jpg');
 	background-color: blue;
 }
 .dhs_23 {
-	background-image: url('http://2.bp.blogspot.com/-MDawzi0vM3s/U6w7NC8u21I/AAAAAAAAAv4/EUuVIt_85wo/s1600/wallpaper-queen-girls-of-the-wilds-manga-webtoon-manhwa-comic-martial-arts.jpg');
+	background-image: url('http://i64.tinypic.com/8wkzfb.jpg');
 	background-color: green;
 }
 .dhs_22 {
@@ -51,7 +51,7 @@ dhs_6 -> dhs_6
 	background-color: purple;
 }
 .dhs_21 {
-	background-image: url('http://68.media.tumblr.com/064e09f2635f4df24838b6651da34567/tumblr_nmf2xj6JH51t0a4ioo1_540.jpg');
+	background-image: url('http://i67.tinypic.com/1549dg5.jpg');
 	background-color: black;
 }
 
